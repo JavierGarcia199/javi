@@ -5,4 +5,4 @@ fusinando ramas prueba 2000
 hola
 adios
 
-git
+git rama master
